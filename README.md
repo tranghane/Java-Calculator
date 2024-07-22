@@ -1,17 +1,17 @@
-# Iphone Calculator Replication
+# Iphone Calculator Replication or something close enough
 
 ## Target Audience
-The calculator will provide a user-friendly interface due to the inspiration of the famous Iphone. The project will also 
-target a wide rage of users, anyone who in need of a reliable and easy-and-quick-to-use calculator on their electronic 
-device. Whether you're solving a math problem from the homework, calculating a financial problem, or even working on an
-scientific problem that will decide the fate of the world, a handy calculator will come in place in a most seamlessly 
+The calculator will provide a user-friendly interface, inspired by the famous iPhone. The project will also 
+target a wide range of users, anyone who in need of a reliable and easy-and-quick-to-use calculator on their electronic 
+device. Whether you're solving a math problem from homework, calculating a financial problem, or even working on a
+scientific problem that will decide the fate of the world, a handy calculator will come in place in a most seamless 
 and efficient way.
 ## Feature
 
-- **Standard operation:** addiction, subtraction, multiplication, and division
-- **Continuity calculation:** allow user to follow-up the calculation with the previous result
+- **Standard operation:** addition, subtraction, multiplication, and division
+- **Continuity calculation:** allow user to follow up the calculation with the previous result
 - **Scientific functions:** square root, exponentiation, and trigonometric calculations.
-- **Interface:** UI similar to image below ↓
+- **Interface:** UI similar to the image below ↓
 ![img.png](img.png)
 
 ## Motivation
@@ -21,18 +21,18 @@ aspect of coding that I have never done before. Lastly, I choose to design a cal
 in Java but also delivery a useful tool that can help a wide range of user.
 An example of text with **bold** and *italic* fonts.  
 
-## User stories:
+## User want:
 
 - As a user, I want to be able to perform standard operation
 - As a user, I want to continue my calculation with the previous result
 - As a user, I want to perform scientific functions
-- As a user, I want to view my results to a history log
+- As a user, I want to view my results in a history log
 - As a user, I want to reset my history log
 - As a user, I want to save the last result that I got, output from the program, and the history log
 - As a user, I want to continue with the result history and the last input that I got from earlier time.
-- As a user, I want to be able to add multiple Operations to Calculator
+- As a user, I want to be able to add multiple Operations to the Calculator
 
-## Instructions for Grader:
+## Instructions for User:
 - You can add multiple Operations to Calculator simply by clicking any operation button
 - You can remove all of Operations to Calculator by clicking "reset" button
 - You can locate my visial component when ever you run the file CalculatorLauncher file
